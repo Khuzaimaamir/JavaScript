@@ -1,0 +1,8 @@
+Run repl. ctrl + enter.
+Open shell. ctrl + shift + s.
+open preferences. ctrl + ,
+Open version control sidebar. ctrl + shift + g.
+open debugger. ctrl + shift + d.
+toggle command bar. ctrl + .
+Open multiplayer mode. ctrl + shift + m.
+Open packages sidebar. ctrl + shift + L
